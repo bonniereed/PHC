@@ -31,9 +31,9 @@ This is an example of the expected return:
 
 # Usage:
 
-* Open this zipped folder in VScode. 
-* Right click on the 'index.js' file and select 'Open in integrated terminal'.
-* In the terminal, type  ```npm i```.
-* To run the server, type ```node .```
-* Open a web browser and navigate to localhost:3001/api/(Zipcode of your choice).
+* Open this zipped folder in VScode
+* Right click on the 'index.js' file and select 'Open in integrated terminal'
+* In the terminal, type  `npm i`
+* To run the server, type `node .`
+* Open a web browser and navigate to `localhost:3001/api/(Zipcode of your choice)`
 
